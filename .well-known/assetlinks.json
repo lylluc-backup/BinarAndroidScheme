@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.binaracademy.app",
+    "sha256_cert_fingerprints":
+    ["A5:34:E0:49:E6:6D:9B:12:A0:1B:58:E4:90:A9:C7:9A:18:EF:5D:FA:9D:91:1C:DC:95:32:F2:0D:3E:5D:16:ED"]
+  }
+}]
